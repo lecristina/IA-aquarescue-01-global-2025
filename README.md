@@ -47,7 +47,3 @@ Pode ser utilizado como ferramenta de apoio a decisão em contextos sociais e am
 - Python
 - Pandas, NumPy, Matplotlib
 - Scikit-learn
-
-## 👤 Desenvolvedores
-- Leticia Cristina Dos Santos Passos - RM: 555241
-- (Adicione os demais integrantes aqui)
