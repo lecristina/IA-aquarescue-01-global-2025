@@ -1,7 +1,10 @@
-
 # ✨ Título do Projeto
 **AquaRescue – Previsão de Seca para Comunidades Vulneráveis com Machine Learning**
+---
+## Vídeo
+* https://youtu.be/XeC0OsIRnw4
 
+---
 ## 👥 Desenvolvedores
 
 - Leticia Cristina Dos Santos Passos RM: 555241
