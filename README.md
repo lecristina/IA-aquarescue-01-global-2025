@@ -5,6 +5,10 @@
 * https://youtu.be/XeC0OsIRnw4
 
 ---
+## Pitch geral
+* https://youtu.be/72TR3quH2Dg
+
+---
 ## 👥 Desenvolvedores
 
 - Leticia Cristina Dos Santos Passos RM: 555241
